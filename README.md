@@ -5,7 +5,7 @@ A holistic AI-powered travel planning application that integrates multiple Model
 
 ### Demo Video
 <video width="600" controls>
-  <source src="MCP_GenAI_Travel_Planner.mp4" type="video/mp4">
+  <source src="https://github.com/alivnavc/Gen-AI-Travel-Agent/raw/master/MCP_GenAI_Travel_Planner.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
