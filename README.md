@@ -2,6 +2,13 @@
 
 A holistic AI-powered travel planning application that integrates multiple Model Context Protocol (MCP) servers to create detailed, real-time travel itineraries. Combines flight search, accommodation booking, location services, and comprehensive travel planning in one seamless interface.
 
+
+### Demo Video
+<video width="600" controls>
+  <source src="MCP_GenAI_Travel_Planner.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Features
 
 - **Real-time Flight Search**: Live flight data with prices, airlines, and booking links
