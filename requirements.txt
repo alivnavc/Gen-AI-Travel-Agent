@@ -1,0 +1,10 @@
+fastmcp
+serpapi
+streamlit
+agno
+openai
+icalendar
+google-search-results
+googlesearch-python
+pycountry
+fastmcp
